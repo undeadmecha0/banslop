@@ -19,5 +19,3 @@ aniarchive
 cardf
 yameii
 new-raws
-erai
-subsplease
