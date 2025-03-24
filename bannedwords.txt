@@ -36,7 +36,7 @@ dvd_iso
 dvd iso
 dvdiso
 loftmoon
-animemeintantei
+animeitantei
 bonobosubs
 kokorozashi
 fsp
@@ -49,4 +49,5 @@ tensoraws
 neodesu
 kotex
 fortunatv
-
+chinese
+furretar
