@@ -53,3 +53,4 @@ chinese
 furretar
 dough
 [db]
+entamesubs
