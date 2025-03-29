@@ -56,3 +56,5 @@ dough
 entamesubs
 camrip
 iQ WEB-DL
+[bird]
+subtitles
