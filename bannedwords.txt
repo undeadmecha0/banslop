@@ -58,3 +58,6 @@ camrip
 iQ WEB-DL
 [bird]
 subtitles
+minimtbb
+antbnecn
+yt-rip
