@@ -66,3 +66,8 @@ lesslocalized
 JP-EN
 shincaps
 anitsu
+salieri
+tlh1138
+soshiki
+kichido
+gecko
